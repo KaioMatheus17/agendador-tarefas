@@ -4,8 +4,8 @@ package com.kaio.agendadortarefas.infrastructure.security;
 
 import com.kaio.agendadortarefas.business.dto.UsuarioDTO;
 import com.kaio.agendadortarefas.infrastructure.client.UsuarioClient;
-import com.kaio.usuario.infrastructure.entity.Usuario;
-import com.kaio.usuario.infrastructure.repository.UsuarioRepository;
+
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.User;
 import org.springframework.security.core.userdetails.UserDetails;
